@@ -3,6 +3,18 @@
     "displayName": "Dull Sun",
     "description": "A shineless theme",
     "version": "0.0.1",
+    "publisher": "DullSun",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/leutzed/Dull-Sun-Theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "dark",
+        "dracula",
+        "material"
+    ],
     "engines": {
         "vscode": "^1.64.0"
     },

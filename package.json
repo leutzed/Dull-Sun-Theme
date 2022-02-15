@@ -1,0 +1,31 @@
+{
+    "name": "dull-sun",
+    "displayName": "Dull Sun",
+    "description": "A shineless theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dull Sun",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dull-sun.json"
+            },
+            {
+                "label": "Dull Sun Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dull-sun-light.json"
+            },
+            {
+                "label": "Dull Sun Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dull-sun-dark.json"
+            }
+        ]
+    }
+}

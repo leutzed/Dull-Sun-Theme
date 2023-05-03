@@ -225,7 +225,7 @@
 		"terminal.ansiBrightRed": "#f28779",
 		"terminal.ansiBrightGreen": "#d5ff80",
 		"terminal.ansiBrightYellow": "#ffd173",
-		"terminal.ansiBrightBlue": "#569CD6",
+		"terminal.ansiBrightBlue": "#569cd6",
 		"terminal.ansiBrightMagenta": "#dfbfff",
 		"terminal.ansiBrightCyan": "#95e6cb",
 		"terminal.ansiBrightWhite": "#ffffff"
@@ -405,7 +405,7 @@
 				"source.c storage.type"
 			],
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#569cd6"
 			}
 		},
 		{
@@ -492,7 +492,7 @@
 				"entity.name"
 			],
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#569cd6"
 			}
 		},
 		{
@@ -502,7 +502,7 @@
 				"meta.tag.sgml"
 			],
 			"settings": {
-				"foreground": "#5ccfe6"
+				"foreground": "#00ffff"
 			}
 		},
 		{
@@ -511,7 +511,7 @@
 				"support.class.component"
 			],
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#4488ce"
 			}
 		},
 		{
@@ -604,7 +604,7 @@
 				"source.stylus entity.name.tag"
 			],
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#569cd6"
 			}
 		},
 		{

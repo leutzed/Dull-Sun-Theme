@@ -1,8 +1,8 @@
 {
     "name": "dull-sun",
-    "displayName": "Dull Sun",
+    "displayName": "Dull Sun (Dun)",
     "description": "A shineless theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "DullSun",
     "icon": "logo.png",
     "repository": {
